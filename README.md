@@ -20,7 +20,7 @@ nunit
 ------
 Unit testing framework
 
-mog
+moq
 ---
 Mocking framework for unit testing
 
