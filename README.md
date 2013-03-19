@@ -30,7 +30,7 @@ ORM (i.e. maps DB schema to POCOs)
 
 ninject
 -------
-IoC depdendecy injection framwork
+IoC dependency injection framwork
 
 OData
 -----
